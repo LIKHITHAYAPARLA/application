@@ -7,7 +7,7 @@ const login=()=>{
   return (
       <div className="App">
        <div className="textdesign">
-       Email <input type="text"/>
+       <input type="text"  placeholder="Enter Name"/>
        </div>
        <div className="submitdesign">
        <input type="submit" value="Submit"/>

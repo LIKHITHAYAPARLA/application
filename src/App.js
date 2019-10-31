@@ -25,7 +25,7 @@ class App extends Component {
     return (
       <div>
         <Login/>
-        <Message/>
+        {/* <Message/> */}
       
         {/* <div className="textdesign">
        Email <input type="text"/>
