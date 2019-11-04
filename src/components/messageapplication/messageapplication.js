@@ -5,7 +5,7 @@ const message=()=>{
     return(
         <div className="App">
           <div id="container">
-            <aside id="sidebar" class="sidebar"> 
+            <aside id="sidebar" class="sidebar">  
             <div className="se">Users</div>
       
             <div><button className="si"><img src={download} width="25px" height="25px"/> Amelia</button></div>
@@ -32,6 +32,6 @@ const message=()=>{
             </section>
           </div>
         </div>
-      );
+      );  
 }
 export default message;

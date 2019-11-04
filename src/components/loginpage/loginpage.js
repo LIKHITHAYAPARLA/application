@@ -1,5 +1,4 @@
-import React from 'react';
-import Message from '../messageapplication/messageapplication'
+import React from 'react';  
 import '../messageapplication/messageapplication.css';
 
 

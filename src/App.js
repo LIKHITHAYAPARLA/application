@@ -4,14 +4,13 @@ import Login from '../src/components/loginpage/loginpage';
 import '../src/components/loginpage/loginpage.css';
 import Message from '../src/components/messageapplication/messageapplication';
 import  '../src/components/messageapplication/messageapplication.css'
-import download from '../src/assets/download.png';
 
 // const Messages=(props)=>{
 //   if(props.value){
 //     return <Login/>
 //   }
 //   return <Message/>
-// }
+// }  
 class App extends Component {
   // constructor(props){
   //   super(props);
@@ -20,7 +19,7 @@ class App extends Component {
   // handleClick=()=>{
   //   this.setState({
   //     value:!this.state.value 
-  //   })
+  //   })           
   // }
   render() {
     return (
