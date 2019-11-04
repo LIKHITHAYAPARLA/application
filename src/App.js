@@ -24,8 +24,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Login/>
-        {/* <Message/> */}
+        {/* <Login/> */}
+        <Message/>
       
         {/* <div className="textdesign">
        Email <input type="text"/>

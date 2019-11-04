@@ -36,8 +36,10 @@
   
   .si{
       text-align: left;
-      margin-top: 10%;
+      margin-top: 0%;
       font-size: 125%;
+      width: 55.4444vh;
+      padding: 19px 12px;
   }
   
   .text{
