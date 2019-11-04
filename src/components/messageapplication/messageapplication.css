@@ -39,7 +39,12 @@
       margin-top: 0%;
       font-size: 125%;
       width: 55.4444vh;
-      padding: 19px 12px;
+      padding: 18px 12px;
+
+     /* color: transparent; */
+      /* background-color: transparent;  */
+      /* border-color: transparent; */
+       /* cursor: default;   */
   }
   
   .text{

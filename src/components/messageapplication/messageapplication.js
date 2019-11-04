@@ -1,4 +1,5 @@
 import React from 'react';
+import download from '../../assets/download.png';
 
 const message=()=>{
     return(
@@ -7,16 +8,16 @@ const message=()=>{
             <aside id="sidebar" class="sidebar"> 
             <div className="se">Users</div>
       
-            <div><button className="si">Amelia</button></div>
-            <div><button className="si">Harper</button></div>
-            <div><button className="si">Clarie</button></div>
-            <div><button className="si">Evelyn</button></div>
-            <div><button className="si">Briony</button></div>
-            <div><button className="si">Elowen</button></div>
-            <div><button className="si">Verity</button></div>
-            <div><button className="si">Aditya</button></div>
-            <div><button className="si">Adline</button></div>
-            <div><button className="si">Sophia</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Amelia</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Harper</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Clarie</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Evelyn</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Briony</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Elowen</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Verity</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Aditya</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Adline</button></div>
+            <div><button className="si"><img src={download} width="25px" height="25px"/> Sophia</button></div>
      
           </aside>
          
