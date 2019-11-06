@@ -1,4 +1,4 @@
-.App {
+  .App {
     text-align: center;
   }
   
@@ -38,21 +38,38 @@
   }
   
   .si{
-      text-align: left;
+     text-align: left;
       margin-top: 0%;
       font-size: 125%;
       width:50.4444vh;
       padding: 18px 12px;
       /* color: transparent; */
-      /* background-color: transparent;  */
+      /* background-color:pink;  */
       /* border-color: transparent; */
-       /* cursor: default;
-         */
-
-  }
+       /* cursor: default;*/
+        }
   
   .text{
     text-align: left;
   }
-
- 
+  .so{
+    width:50.4444vh;
+  }
+  input[type=submit]{
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: gray;
+    height: 50px;
+  }
+  input[type=text] {
+    width:69%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 8px 10px #888888;
+    height: 50px;
+  }

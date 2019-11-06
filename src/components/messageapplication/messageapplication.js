@@ -7,7 +7,8 @@ const message=()=>{
           <div id="container">
             <aside id="sidebar" class="sidebar">  
             <div className="se">Users</div>
-      
+
+            <div><button className="so"><input type="text" placeholder="Search here"/></button></div>
             <div><button className="si"><img src={download} width="25px" height="25px"/> Amelia</button></div>
             <div><button className="si"><img src={download} width="25px" height="25px"/> Harper</button></div>
             <div><button className="si"><img src={download} width="25px" height="25px"/> Clarie</button></div>
@@ -33,5 +34,5 @@ const message=()=>{
           </div>
         </div>
       );  
-}
+} 
 export default message;
