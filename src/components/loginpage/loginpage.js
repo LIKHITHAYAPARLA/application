@@ -6,10 +6,10 @@ const login=()=>{
   return (
       <div className="App">
        <div className="textdesign">
-       <input type="text"  placeholder="Enter Name"/>
+       <input type="text"  id="ko"placeholder="Enter Name"/>
        </div>
        <div className="submitdesign">
-       <input type="submit" value="Submit"/>
+       <input type="submit"id="po" value="Submit"/>
        {/* <input type="submit" value="Submit"  onClick={this.handleClick}/> */}
        </div>
         </div>

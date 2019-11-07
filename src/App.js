@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import Login from '../src/components/loginpage/loginpage';
-// import '../src/components/loginpage/loginpage.css';
+import '../src/components/loginpage/loginpage.css';
 import Message from '../src/components/messageapplication/messageapplication';
 import  '../src/components/messageapplication/messageapplication.css'
 

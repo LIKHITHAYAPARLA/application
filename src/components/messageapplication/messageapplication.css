@@ -31,6 +31,7 @@
     border-right: 1px solid #3f3f3f;
     height: 100%;
     width:100%;
+    overflow: scroll;
   }
   
   .se{
@@ -55,7 +56,7 @@
   .so{
     width:50.4444vh;
   }
-  input[type=submit]{
+  /* input[type=submit]{
     border: none;
     color: white;
     padding: 16px 32px;
@@ -72,4 +73,39 @@
     box-sizing: border-box;
     box-shadow: 10px 10px 8px 10px #888888;
     height: 50px;
+  } */
+  #tq{
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: gray;
+    height: 50px;
   }
+  #ty{
+    width:69%;
+    padding: 12px 20px;
+    margin: 0px 0;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 8px 10px #888888;
+    height: 50px;
+  }
+  #to{
+    /* text-align: left;
+    margin-top: 0%;
+    font-size: 125%;
+    width:45.4444vh;
+    padding: 18px 12px;
+    background-image:download.png; */
+
+    border-radius: 25px;
+    border: 2px solid #609;
+    padding: 20px; 
+    width: 43vh;
+    height: 15px;    
+    margin-bottom: 2.22vh;
+  }
+
+  

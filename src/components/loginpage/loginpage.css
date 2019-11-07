@@ -12,7 +12,7 @@
     margin-top:1.1111vw;
   }
   
-  input[type=submit]{
+  #po{
     border: none;
     color: white;
     padding: 16px 32px;
@@ -22,8 +22,8 @@
     background-color: gray;
     height: 50px;
   }
-  input[type=text] {
-    width:69%;
+  #ko{
+    width:20%;
     padding: 12px 20px;
     margin: 0px 0;
     box-sizing: border-box;
