@@ -1,5 +1,6 @@
   .App {
     text-align: center;
+    overflow: hidden;
   }
   
   #container {
@@ -31,11 +32,12 @@
     border-right: 1px solid #3f3f3f;
     height: 100%;
     width:100%;
-    overflow: scroll;
+    /* overflow: scroll; */
   }
   
   .se{
     font-size:200%;
+    
   }
   
   .si{
@@ -44,6 +46,7 @@
       font-size: 125%;
       width:50.4444vh;
       padding: 18px 12px;
+      
       /* color: transparent; */
       /* background-color:pink;  */
       /* border-color: transparent; */
@@ -52,9 +55,11 @@
   
   .text{
     text-align: left;
+    
   }
   .so{
     width:50.4444vh;
+    
   }
   /* input[type=submit]{
     border: none;
@@ -85,7 +90,7 @@
     height: 50px;
   }
   #ty{
-    width:69%;
+    width:68%;
     padding: 12px 20px;
     margin: 0px 0;
     box-sizing: border-box;
@@ -106,6 +111,10 @@
     width: 43vh;
     height: 15px;    
     margin-bottom: 2.22vh;
+  }
+  .il{
+    overflow: scroll;
+    
   }
 
   

@@ -10,6 +10,7 @@ const message=()=>{
             <div className="se">Chats</div>
 
             <div className="oi"><input type="text" id="to" placeholder="Search Here" /> </div>
+            <div className="il">
             <div><button className="si"><img src={download} width="25px" height="25px"/> Amelia</button></div>
             <div><button className="si"><img src={download} width="25px" height="25px"/> Harper</button></div>
             <div><button className="si"><img src={download} width="25px" height="25px"/> Clarie</button></div>
@@ -20,6 +21,7 @@ const message=()=>{
             <div><button className="si"><img src={download} width="25px" height="25px"/> Aditya</button></div>
             <div><button className="si"><img src={download} width="25px" height="25px"/> Adline</button></div>
             {/* <div><button className="si"><img src={download} width="25px" height="25px"/> Sophia</button></div> */}
+            </div>
      
           </aside>
          
